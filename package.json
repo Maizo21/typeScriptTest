@@ -1,0 +1,25 @@
+{
+  "name": "typescripttest",
+  "version": "1.0.0",
+  "description": "Practica de TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maizo21/typeScriptTest.git"
+  },
+  "keywords": [
+    "Typescript"
+  ],
+  "author": "Hernan Amaiz <hernanamaizp@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maizo21/typeScriptTest/issues"
+  },
+  "homepage": "https://github.com/Maizo21/typeScriptTest#readme",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
